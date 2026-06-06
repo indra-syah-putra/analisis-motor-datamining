@@ -1,29 +1,56 @@
-# 🏍️ Motorcycle Data Analysis
+# 🏍️ Analisis Data Mining Dataset Sepeda Motor
 
-This project explores motorcycle datasets using Data Mining techniques and Python-based tools. The analysis includes data preprocessing, exploratory data analysis (EDA), visualization, and insight generation to support data-driven decision making.
+## 📖 Deskripsi Proyek
 
-## 📊 Dataset Source
-Dataset obtained from Kaggle:
-https://www.kaggle.com/...
+Proyek ini dibuat sebagai bagian dari pembelajaran Data Mining untuk menganalisis dataset sepeda motor menggunakan Python. Analisis dilakukan melalui tahapan pembersihan data, eksplorasi data, visualisasi, serta penggalian informasi yang dapat digunakan sebagai dasar pengambilan keputusan berbasis data.
 
-## 🛠️ Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Google Colab
+## 🎯 Tujuan Proyek
 
-## 🎯 Objectives
-- Clean and prepare raw data
-- Explore motorcycle dataset characteristics
-- Visualize trends and patterns
-- Generate meaningful insights
+* Melakukan pembersihan dan persiapan data.
+* Menganalisis karakteristik dataset sepeda motor.
+* Menerapkan konsep dan teknik Data Mining.
+* Menampilkan visualisasi data yang informatif.
+* Menghasilkan insight dari data yang dianalisis.
 
-## 📁 Project Structure
-```
-data/
-│── Detail_motor.csv
-notebooks/
-│── Tugas_kel_algo.ipynb
-README.md
-```
+## 📊 Sumber Dataset
+
+Dataset diperoleh dari Kaggle:
+
+https://www.kaggle.com/
+
+## 🛠️ Tools dan Teknologi
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Google Colab
+* Jupyter Notebook
+
+## 🔍 Tahapan Data Mining
+
+1. Pengumpulan Data (Data Collection)
+2. Pembersihan Data (Data Cleaning)
+3. Pra-pemrosesan Data (Data Preprocessing)
+4. Eksplorasi Data (Exploratory Data Analysis / EDA)
+5. Visualisasi Data
+6. Analisis dan Penyusunan Insight
+
+## 📁 Struktur Proyek
+
+analisis-motor-datamining/
+
+├── data/
+
+│ └── Detail_motor.csv
+
+├── Tugas_kel_algo.ipynb
+
+└── README.md
+
+## 👨‍💻 Pengembang
+
+**Indra Syah Putra**
+Mahasiswa Sistem Informasi – Universitas Bina Sarana Informatika (BSI)
+
+🌐 Portofolio: https://indra.dot.my.id
