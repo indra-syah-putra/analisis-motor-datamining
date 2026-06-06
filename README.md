@@ -15,8 +15,7 @@ Proyek ini dibuat sebagai bagian dari pembelajaran Data Mining untuk menganalisi
 ## 📊 Sumber Dataset
 
 Dataset diperoleh dari Kaggle:
-
-https://www.kaggle.com/
+https://www.kaggle.com/datasets/nehalbirla/motorcycle-dataset
 
 ## 🛠️ Tools dan Teknologi
 
@@ -47,10 +46,3 @@ analisis-motor-datamining/
 ├── Tugas_kel_algo.ipynb
 
 └── README.md
-
-## 👨‍💻 Pengembang
-
-**Indra Syah Putra**
-Mahasiswa Sistem Informasi – Universitas Bina Sarana Informatika (BSI)
-
-🌐 Portofolio: https://indra.dot.my.id
